@@ -1028,7 +1028,7 @@ export default function Home() {
         </p>
 
         <div className="mt-8 rounded-full bg-[#777ed8] px-6 py-4 font-semibold text-white transition group-hover:bg-[#555dc4]">
-          +971 52 314 7661
+          +971 52 585 8270
         </div>
       </a>
 
@@ -1052,7 +1052,7 @@ export default function Home() {
         </p>
 
         <div className="mt-8 rounded-full bg-green-500 px-6 py-4 font-semibold text-white transition group-hover:bg-green-600">
-          +971 52 314 7661
+          +971 52 585 8270
         </div>
       </a>
 
