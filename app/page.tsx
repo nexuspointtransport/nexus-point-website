@@ -77,14 +77,14 @@ export default function Home() {
           {/* Header contact buttons */}
           <div className="hidden items-center gap-3 md:flex">
             <a
-              href="tel:+971523147661"
+              href="tel:+971525858270"
               className="rounded-full border border-[#777ed8] px-5 py-2.5 text-sm font-semibold text-[#666dd0] transition hover:bg-[#f0f1ff]"
             >
               Call Now
             </a>
 
             <a
-              href="https://wa.me/971523147661"
+              href="https://wa.me/971525858270"
               target="_blank"
               rel="noreferrer"
               className="rounded-full bg-[#25D366] px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-[#1fb959]"
@@ -96,7 +96,7 @@ export default function Home() {
           {/* Temporary mobile buttons */}
           <div className="flex gap-2 md:hidden">
             <a
-              href="tel:+971523147661"
+              href="tel:+971525858270"
               aria-label="Call Nexus Point"
               className="flex h-10 w-10 items-center justify-center rounded-full border border-[#777ed8] text-lg"
             >
@@ -104,7 +104,7 @@ export default function Home() {
             </a>
 
             <a
-              href="https://wa.me/971523147661"
+              href="https://wa.me/971525858270"
               target="_blank"
               rel="noreferrer"
               aria-label="Message Nexus Point on WhatsApp"
@@ -183,14 +183,14 @@ export default function Home() {
 
             <div className="mt-10 flex flex-col gap-4 sm:flex-row">
               <a
-                href="tel:+971523147661"
+                href="tel:+971525858270"
                 className="rounded-full bg-[#777ed8] px-8 py-4 text-center text-base font-bold text-white shadow-lg shadow-[#777ed8]/25 transition hover:-translate-y-1 hover:bg-[#6269ca]"
               >
                 ☎ Call Now
               </a>
 
               <a
-                href="https://wa.me/971523147661"
+                href="https://wa.me/971525858270"
                 target="_blank"
                 rel="noreferrer"
                 className="rounded-full bg-[#25D366] px-8 py-4 text-center text-base font-bold text-white shadow-lg shadow-green-500/20 transition hover:-translate-y-1 hover:bg-[#1fb959]"
@@ -367,14 +367,14 @@ export default function Home() {
 
       <div className="mt-9 flex flex-col gap-4 sm:flex-row">
         <a
-          href="tel:+971523147661"
+          href="tel:+971525858270"
           className="rounded-full bg-[#777ed8] px-8 py-4 text-center font-bold text-white shadow-lg transition hover:-translate-y-1 hover:bg-[#6269ca]"
         >
           ☎ Call Now
         </a>
 
         <a
-          href="https://wa.me/971523147661"
+          href="https://wa.me/971525858270"
           target="_blank"
           rel="noreferrer"
           className="rounded-full bg-[#25D366] px-8 py-4 text-center font-bold text-white shadow-lg transition hover:-translate-y-1 hover:bg-[#1fb959]"
@@ -436,7 +436,7 @@ export default function Home() {
     </p>
 
     <a
-      href="https://wa.me/971523147661"
+      href="https://wa.me/971525858270"
       target="_blank"
       rel="noreferrer"
       className="mt-6 inline-flex font-bold text-[#696fd2] transition hover:text-[#555bc1]"
@@ -474,7 +474,7 @@ export default function Home() {
     </p>
 
     <a
-      href="https://wa.me/971523147661"
+      href="https://wa.me/971525858270"
       target="_blank"
       rel="noreferrer"
       className="mt-6 inline-flex font-bold text-[#696fd2] transition hover:text-[#555bc1]"
@@ -512,7 +512,7 @@ export default function Home() {
     </p>
 
     <a
-      href="https://wa.me/971523147661"
+      href="https://wa.me/971525858270"
       target="_blank"
       rel="noreferrer"
       className="mt-6 inline-flex font-bold text-[#696fd2] transition hover:text-[#555bc1]"
@@ -550,7 +550,7 @@ export default function Home() {
     </p>
 
     <a
-      href="https://wa.me/971523147661"
+      href="https://wa.me/971525858270"
       target="_blank"
       rel="noreferrer"
       className="mt-6 inline-flex font-bold text-[#696fd2] transition hover:text-[#555bc1]"
@@ -590,7 +590,7 @@ export default function Home() {
     </p>
 
     <a
-      href="https://wa.me/971523147661"
+      href="https://wa.me/971525858270"
       target="_blank"
       rel="noreferrer"
       className="mt-6 inline-flex font-bold text-[#696fd2] transition hover:text-[#555bc1]"
@@ -628,7 +628,7 @@ export default function Home() {
     </p>
 
     <a
-      href="https://wa.me/971523147661"
+      href="https://wa.me/971525858270"
       target="_blank"
       rel="noreferrer"
       className="mt-6 inline-flex font-bold text-[#696fd2] transition hover:text-[#555bc1]"
@@ -643,14 +643,14 @@ export default function Home() {
     {/* Contact buttons */}
     <div className="mt-12 flex flex-col items-center justify-center gap-4 sm:flex-row">
       <a
-        href="tel:+971523147661"
+        href="tel:+971525858270"
         className="rounded-full bg-[#777ed8] px-8 py-4 text-center font-bold text-white shadow-lg transition hover:-translate-y-1 hover:bg-[#6269ca]"
       >
         ☎ Call Now
       </a>
 
       <a
-        href="https://wa.me/971523147661"
+        href="https://wa.me/971525858270"
         target="_blank"
         rel="noreferrer"
         className="rounded-full bg-[#25D366] px-8 py-4 text-center font-bold text-white shadow-lg transition hover:-translate-y-1 hover:bg-[#1fb959]"
@@ -820,7 +820,7 @@ export default function Home() {
           
 
           <a
-            href="https://wa.me/971523147661?text=Hello%20Nexus%20Point,%20I%20would%20like%20to%20book%20the%20KIA%207%20Seater."
+            href="https://wa.me/971525858270?text=Hello%20Nexus%20Point,%20I%20would%20like%20to%20book%20the%20KIA%207%20Seater."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex rounded-full bg-[#777ed8] px-6 py-3 font-semibold text-white transition hover:bg-[#555dc4]"
@@ -858,7 +858,7 @@ export default function Home() {
           </p>
 
           <a
-            href="https://wa.me/971523147661?text=Hello%20Nexus%20Point,%20I%20would%20like%20to%20book%20the%20Honda%20Odyssey."
+            href="https://wa.me/971525858270?text=Hello%20Nexus%20Point,%20I%20would%20like%20to%20book%20the%20Honda%20Odyssey."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex rounded-full bg-[#777ed8] px-6 py-3 font-semibold text-white transition hover:bg-[#555dc4]"
@@ -895,7 +895,7 @@ export default function Home() {
           </p>
 
           <a
-            href="https://wa.me/971523147661?text=Hello%20Nexus%20Point,%20I%20would%20like%20to%20book%20the%20Lexus%20ES%20300H."
+            href="https://wa.me/971525858270?text=Hello%20Nexus%20Point,%20I%20would%20like%20to%20book%20the%20Lexus%20ES%20300H."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex rounded-full bg-[#777ed8] px-6 py-3 font-semibold text-white transition hover:bg-[#555dc4]"
@@ -932,7 +932,7 @@ export default function Home() {
           </p>
 
           <a
-            href="https://wa.me/971523147661?text=Hello%20Nexus%20Point,%20I%20would%20like%20to%20book%20the%20Toyota%20Highlander."
+            href="https://wa.me/971525858270?text=Hello%20Nexus%20Point,%20I%20would%20like%20to%20book%20the%20Toyota%20Highlander."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex rounded-full bg-[#777ed8] px-6 py-3 font-semibold text-white transition hover:bg-[#555dc4]"
@@ -972,7 +972,7 @@ export default function Home() {
           </p>
 
           <a
-            href="https://wa.me/971523147661?text=Hello%20Nexus%20Point,%20I%20would%20like%20to%20book%20the%20Toyota%20Hiace."
+            href="https://wa.me/971525858270?text=Hello%20Nexus%20Point,%20I%20would%20like%20to%20book%20the%20Toyota%20Hiace."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex rounded-full bg-[#777ed8] px-7 py-3 font-semibold text-white transition hover:bg-[#555dc4]"
@@ -1012,7 +1012,7 @@ export default function Home() {
 
       {/* Call Card */}
       <a
-        href="tel:+971523147661"
+        href="tel:+971525858270"
         className="group rounded-3xl border border-slate-200 bg-slate-50 p-8 text-center shadow-lg transition duration-300 hover:-translate-y-2 hover:border-[#777ed8] hover:shadow-2xl"
       >
         <div className="mx-auto flex h-28 w-28 items-center justify-center rounded-full bg-[#777ed8] text-5xl text-white shadow-xl transition duration-300 group-hover:scale-110">
@@ -1034,7 +1034,7 @@ export default function Home() {
 
       {/* WhatsApp Card */}
       <a
-        href="https://wa.me/971523147661?text=Hello%20Nexus%20Point,%20I%20would%20like%20to%20book%20a%20ride."
+        href="https://wa.me/971525858270?text=Hello%20Nexus%20Point,%20I%20would%20like%20to%20book%20a%20ride."
         target="_blank"
         rel="noopener noreferrer"
         className="group rounded-3xl border border-slate-200 bg-slate-50 p-8 text-center shadow-lg transition duration-300 hover:-translate-y-2 hover:border-green-500 hover:shadow-2xl"
